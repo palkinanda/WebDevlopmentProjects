@@ -1,0 +1,66 @@
+img{
+    display:block;
+    width:625px;
+    height: auto;
+  }
+  #image{
+    max-width: 100%;
+    margin: 10px auto 15px auto;
+   
+  }
+  #img-div {
+    background-color:white;
+    margin:10px 
+  }
+  h1, .hedd{
+    text-align:center;
+  }
+  main{
+    background-color: rgb(240,240,240);
+    border-radius:5px;
+  
+    font-family : sans-serif;
+    padding: 14px 10px;
+  }
+  figcaption {
+    font-size:16;
+    text-align:center;
+    padding-top: 8px;
+  }
+  h1{
+    font-size: 40;
+  }
+  .hedd{
+    font-size: 15;
+  }
+  body{
+    padding-top: 20px;
+    padding-bottom: 20px
+  }
+  #tribute-info {
+    text-align: center;
+    margin: 20px;
+  
+  }
+  li{
+    padding:10px;
+  
+  }
+  #list {
+   padding: 10px 29% 35px
+  
+  }
+  footer {
+    text-align: center;
+    font-size: 18;
+  }
+  #tribute-info {
+    padding-top: 20px;
+  }
+  .text{
+    font-size: 18;
+  }
+  blockquote {
+    padding-top: 20px;
+    color: #656565;
+  }
